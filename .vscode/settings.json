@@ -1,9 +1,0 @@
-{
-    "files.associations": {
-        "iostream": "cpp",
-        "iomanip": "cpp",
-        "random": "cpp"
-    },
-    "python.linting.pylintEnabled": true,
-    "python.linting.enabled": true
-}
